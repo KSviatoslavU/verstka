@@ -335,6 +335,7 @@ button {
         flex-wrap: wrap;
         height:auto;
         margin-bottom: 0px;
+        max-width: 1120px;
 
     }
 
